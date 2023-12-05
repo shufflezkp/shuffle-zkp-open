@@ -11,6 +11,8 @@ This is a prototype implementation of the ShuffleZKP detection protocol.
 
 ### Running Experiments:
 
+First, `go mod tidy` to set up the dependencies.
+
 1. `go run DPSum/dpsum.go`
 2. `go run VecSum/vecsum.go`
 3. `go run AML/aml.go`
