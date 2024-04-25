@@ -15,8 +15,9 @@ First, `go mod tidy` to set up the dependencies.
 
 1. `go run dp_sum/dp_sum.go`
 2. `go run vec_sum/vec_sum.go`
-3. `go run aml/aml.go`
-4. `go run blame/blame.go`
+3. `go run vote/vote.go`
+4. `go run aml/aml.go`
+5. `go run blame/blame.go`
 
 Each one line will generate a csv file on the main directory for the experiment results.
 
